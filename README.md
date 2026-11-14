@@ -4,8 +4,8 @@
 
 <p>
   <a href="https://aquifunciona.dev.br"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:SEU-EMAIL@exemplo.com"><b>Email</b></a>
+  <a href="https://www.linkedin.com/in/ssampaior"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:raabesmps@gmail.com"><b>Email</b></a>
 </p>
 
 </div>
@@ -33,33 +33,19 @@ Desenvolvedora Full Stack com mais de 8 anos construindo produtos SaaS em **PHP 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/raabesmps/mes-certo"><img src="assets/card-mes-certo.svg" alt="Mês Certo: WordPress plugin. PHP, React, PHPUnit, GitHub Actions" width="100%"></a>
-      <sub>WordPress plugin for travel agencies: type a destination, get the best month to go, attractions, a map and a ready-made itinerary. Showcase repo with case study; full source is private.</sub>
+      <sub>WordPress plugin for travel agencies: type a destination, get the best month to go, attractions, a map and a ready-made itinerary. Showcase repo with case study; full source is private. <br><a href="https://mes-certo.aquifunciona.dev.br/">Live demo</a>.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/raabesmps/browser-image-editor"><img src="assets/card-browser-image-editor.svg" alt="Browser Image Editor: React, TypeScript, Web Workers, WebAssembly" width="100%"></a>
-      <sub>Image editor that runs entirely in the browser: crop, resize, adjust, convert and compress, with Web Workers and WASM encoders. No uploads. <a href="https://browse-editor.aquifunciona.dev.br/">Live demo</a>.</sub>
+      <sub>Image editor that runs entirely in the browser: crop, resize, adjust, convert and compress, with Web Workers and WASM encoders. No uploads. <br><a href="https://browse-editor.aquifunciona.dev.br/">Live demo</a>.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/raabesmps/erilea-map"><img src="assets/card-erilea-map.svg" alt="Mapa de Erilea: Vue 3, TypeScript, Leaflet, Vitest" width="100%"></a>
-      <sub>Spoiler-safe interactive parchment map for a fantasy saga (non-profit fan project, PT/EN). Procedural art, shareable URL state, keyboard focus and reduced-motion support.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/raabesmps/hand-tracker"><img src="assets/card-hand-tracker.svg" alt="Hand Tracker: JavaScript, MediaPipe, Canvas API" width="100%"></a>
-      <sub>Real-time hand tracking in the browser: draw in the air, slice fruit, or use your hand as a mouse (an accessibility demo). Vanilla JS, no build step. <a href="https://hand-tracker.aquifunciona.dev.br/">Live demo</a>.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/raabesmps/moneyblog-fullstack"><img src="assets/card-moneyblog-fullstack.svg" alt="MoneyBlog: Laravel 10 API and Next.js 14 frontend" width="100%"></a>
-      <sub>Financial-news app: Laravel 10 REST API with a service layer and a Next.js 14 frontend (SSR, dynamic routes, infinite scroll). Uses mock data.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <br>
-      <sub>More on the <a href="https://aquifunciona.dev.br"><b>portfolio</b></a>: every project has a live demo, a written plan and a case study.</sub>
-    </td>
-  </tr>
+      <sub>Spoiler-safe interactive parchment map for a fantasy saga (non-profit fan project, PT/EN). Procedural art, shareable URL state, keyboard focus and reduced-motion support. <br><br>Em andamento</sub>
+    </td> 
+  </tr> 
 </table>
 
 <img src="assets/divider.svg" alt="" width="100%">
