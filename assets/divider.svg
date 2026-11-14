@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 28" width="1280" height="28" role="img"><style>
+
+.ys{font-family:'RSYoung',Georgia,serif}
+.at7{font-family:'RSAtk',Arial,sans-serif;font-weight:700}
+.at4{font-family:'RSAtk4',Arial,sans-serif;font-weight:400}
+.lt{font-family:'RSLit',Georgia,serif;font-style:italic}
+@keyframes tw{from{opacity:.15}to{opacity:1}}
+.s{animation:tw 4s ease-in-out infinite alternate}
+.s2{animation-duration:6s;animation-delay:-2s}
+.s3{animation-duration:5s;animation-delay:-3.5s}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+.pl{stroke-dasharray:1;animation:draw 4.5s ease-in-out .6s both}
+.pl2{animation-delay:2.2s}
+@keyframes pulse{0%,100%{opacity:.5;transform:scale(1)}50%{opacity:1;transform:scale(1.8)}}
+.nd{transform-box:fill-box;transform-origin:center;animation:pulse 4s ease-in-out infinite}
+.n2{animation-delay:-.8s}.n3{animation-delay:-1.6s}.n4{animation-delay:-2.4s}.n5{animation-delay:-3.2s}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.up{animation:rise 1s cubic-bezier(.2,.7,.2,1) both}
+@media (prefers-reduced-motion: reduce){*{animation:none !important}}
+
+</style><defs></defs><line x1="40" y1="14" x2="1240" y2="14" stroke="#BDB097" stroke-opacity=".35" stroke-dasharray="2 8"/><rect class="nd n1" x="555" y="9" width="10" height="10" transform="rotate(45 560 14)" fill="#BDB097"/><rect class="nd n2" x="635" y="9" width="10" height="10" transform="rotate(45 640 14)" fill="#E5533A"/><rect class="nd n3" x="715" y="9" width="10" height="10" transform="rotate(45 720 14)" fill="#BDB097"/></svg>
