@@ -1,13 +1,17 @@
 <div align="center">
-
-<img src="assets/header.svg" alt="Raabe Sampaio, Full Stack Developer. I build web systems from database to interface." width="100%">
-
-<p>
-  <a href="https://aquifunciona.dev.br"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ssampaior"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:raabesmps@gmail.com"><b>Email</b></a>
-</p>
-
+    <img src="assets/header.svg" alt="Raabe Sampaio, Full Stack Developer. I build web systems from database to interface." width="100%">
+    <p>
+        <a href="https://aquifunciona.dev.br"><b>Portfolio</b></a> &nbsp;·&nbsp;
+        <a href="https://www.linkedin.com/in/ssampaior"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+        <a href="mailto:raabesmps@gmail.com"><b>Email</b></a>
+    </p>
+    <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/REST_API-E5533A?style=for-the-badge&logo=postman&logoColor=white" alt="REST API">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </p>
 </div>
 
 Full Stack Developer with 8+ years building SaaS products in **PHP / Laravel** and **Vue.js**. I like readable code, tests for everything I ship, and turning messy problems into clear products. Right now I am adding data science (Python, SQL) to the toolbox.
@@ -15,14 +19,10 @@ Full Stack Developer with 8+ years building SaaS products in **PHP / Laravel** a
 **Open to remote mid / senior Full Stack roles.** English C2, Portuguese native, professional Spanish.
 
 <details>
-<summary><b>🇧🇷 Versão em português</b></summary>
-
-<br>
-
-Desenvolvedora Full Stack com mais de 8 anos construindo produtos SaaS em **PHP / Laravel** e **Vue.js**. Gosto de código legível, de testes para tudo que entrego e de transformar problemas confusos em produtos claros. Agora estou somando ciência de dados (Python, SQL) à caixa de ferramentas.
-
-**Aberta a vagas remotas Full Stack pleno / sênior.** Inglês C2, português nativo, espanhol profissional.
-
+    <summary><b>🇧🇷 Versão em português</b></summary>
+    <br>
+    Desenvolvedora Full Stack com mais de 8 anos construindo produtos SaaS em **PHP / Laravel** e **Vue.js**. Gosto de código legível, de testes para tudo que entrego e de transformar problemas confusos em produtos claros. Agora estou somando ciência de dados (Python, SQL) à caixa de ferramentas.
+    **Aberta a vagas remotas Full Stack pleno / sênior.** Inglês C2, português nativo, espanhol profissional.
 </details>
 
 <img src="assets/divider.svg" alt="" width="100%">
@@ -30,22 +30,33 @@ Desenvolvedora Full Stack com mais de 8 anos construindo produtos SaaS em **PHP 
 ## Featured projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/raabesmps/mes-certo"><img src="assets/card-mes-certo.svg" alt="Mês Certo: WordPress plugin. PHP, React, PHPUnit, GitHub Actions" width="100%"></a>
-      <sub>WordPress plugin for travel agencies: type a destination, get the best month to go, attractions, a map and a ready-made itinerary. Showcase repo with case study; full source is private. <br><a href="https://mes-certo.aquifunciona.dev.br/">Live demo</a>.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/raabesmps/browser-image-editor"><img src="assets/card-browser-image-editor.svg" alt="Browser Image Editor: React, TypeScript, Web Workers, WebAssembly" width="100%"></a>
-      <sub>Image editor that runs entirely in the browser: crop, resize, adjust, convert and compress, with Web Workers and WASM encoders. No uploads. <br><a href="https://browse-editor.aquifunciona.dev.br/">Live demo</a>.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/raabesmps/erilea-map"><img src="assets/card-erilea-map.svg" alt="Mapa de Erilea: Vue 3, TypeScript, Leaflet, Vitest" width="100%"></a>
-      <sub>Spoiler-safe interactive parchment map for a fantasy saga (non-profit fan project, PT/EN). Procedural art, shareable URL state, keyboard focus and reduced-motion support. <br><br><a href="https://erilea.aquifunciona.dev.br/">Em andamento</a></sub>
-    </td> 
-  </tr> 
+    <tr>
+        <td width="50%" valign="top">
+            <a href="https://github.com/raabesmps/mes-certo"><img src="assets/card-mes-certo.svg" alt="Mês Certo: WordPress plugin. PHP, React, PHPUnit, GitHub Actions" width="100%"></a>
+            <sub>WordPress plugin for travel agencies: type a destination, get the best month to go, attractions, a map and a ready-made itinerary. Showcase repo with case study; full source is private. <br><a href="https://mes-certo.aquifunciona.dev.br/">Live demo</a>.</sub>
+        </td>
+        <td width="50%" valign="top">
+            <a href="https://github.com/raabesmps/browser-image-editor"><img src="assets/card-browser-image-editor.svg" alt="Browser Image Editor: React, TypeScript, Web Workers, WebAssembly" width="100%"></a>
+            <sub>Image editor that runs entirely in the browser: crop, resize, adjust, convert and compress, with Web Workers and WASM encoders. No uploads. <br><a href="https://browse-editor.aquifunciona.dev.br/">Live demo</a>.</sub>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <a href="https://github.com/raabesmps/studyplan-ai"><img src="assets/card-studyplan-ai.svg" alt="StudyPlan AI: Next.js 14, React, TypeScript, Gemini API" width="100%"></a>
+            <sub>Study plan generator: tell it the subject, your weekly hours and how many days you have, and AI builds a personalised plan. Being refactored as a Next.js showcase. <br><br><a href="https://github.com/raabesmps/studyplan-ai">In progress</a></sub>
+        </td>
+        <td width="50%" valign="top">
+            <a href="https://github.com/raabesmps/hand-tracker"><img src="assets/card-hand-tracker.svg" alt="Hand Tracker: JavaScript ES Modules, MediaPipe, Canvas API" width="100%"></a>
+            <sub>Hand tracking through the webcam, 100% in the browser: draw in the air, slice fruit, or use your hand as a mouse (accessibility demo). No back end, no build step; the camera never leaves your machine. <br><a href="https://hand-tracker.aquifunciona.dev.br/">Awaiting improvements</a>.</sub>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <a href="https://github.com/raabesmps/erilea-map"><img src="assets/card-erilea-map.svg" alt="Mapa de Erilea: Vue 3, TypeScript, Leaflet, Vitest" width="100%"></a>
+            <sub>Spoiler-safe interactive parchment map for a fantasy saga (non-profit fan project, PT/EN). Procedural art, shareable URL state, keyboard focus and reduced-motion support. <br><br><a href="https://erilea.aquifunciona.dev.br/">In progress</a></sub>
+        </td>
+        <td width="50%"></td>
+    </tr>
 </table>
 
 <img src="assets/divider.svg" alt="" width="100%">
