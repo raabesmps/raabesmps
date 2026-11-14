@@ -43,7 +43,7 @@ Desenvolvedora Full Stack com mais de 8 anos construindo produtos SaaS em **PHP 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/raabesmps/erilea-map"><img src="assets/card-erilea-map.svg" alt="Mapa de Erilea: Vue 3, TypeScript, Leaflet, Vitest" width="100%"></a>
-      <sub>Spoiler-safe interactive parchment map for a fantasy saga (non-profit fan project, PT/EN). Procedural art, shareable URL state, keyboard focus and reduced-motion support. <br><br>Em andamento</sub>
+      <sub>Spoiler-safe interactive parchment map for a fantasy saga (non-profit fan project, PT/EN). Procedural art, shareable URL state, keyboard focus and reduced-motion support. <br><br><a href="https://erilea.aquifunciona.dev.br/">Em andamento</a></sub>
     </td> 
   </tr> 
 </table>
