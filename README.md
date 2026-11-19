@@ -42,8 +42,8 @@ Full Stack Developer with 8+ years building SaaS products in **PHP / Laravel** a
     </tr>
     <tr>
         <td width="50%" valign="top">
-            <a href="https://github.com/raabesmps/studyplan-ai"><img src="assets/card-studyplan-ai.svg" alt="StudyPlan AI: Next.js 14, React, TypeScript, Gemini API" width="100%"></a>
-            <sub>Study plan generator: tell it the subject, your weekly hours and how many days you have, and AI builds a personalised plan. Being refactored as a Next.js showcase. <br><br><a href="https://github.com/raabesmps/studyplan-ai">In progress</a></sub>
+            <a href="https://studyplan.aquifunciona.dev.br"><img src="assets/card-studyplan-ai.svg" alt="StudyPlan AI: Next.js 14, React, TypeScript, Gemini API" width="100%"></a>
+            <sub>Study plan generator: tell it the subject, your weekly hours and how many days you have, and AI builds a personalised plan. Being refactored as a Next.js showcase. <br><br><a href="https://studyplan.aquifunciona.dev.br">Live demo</a></sub>
         </td>
         <td width="50%" valign="top">
             <a href="https://github.com/raabesmps/hand-tracker"><img src="assets/card-hand-tracker.svg" alt="Hand Tracker: JavaScript ES Modules, MediaPipe, Canvas API" width="100%"></a>
